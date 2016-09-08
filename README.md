@@ -10,6 +10,7 @@ Once code is downloaded  :
   The hoover functionality is available under: http://localhost:8080/robotic-hoover/rest/hoover (PUT method)
 
   Note: One possible problem you may encounter is that maven is not able to resolve the jetty plugin, in that case add the following in settings.xml
+  <br>
   <textarea>
     <pluginGroups>
       <pluginGroup>org.eclipse.jetty</pluginGroup>
