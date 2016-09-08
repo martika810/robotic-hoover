@@ -2,8 +2,10 @@
 
 <h1>How to run the code</h1>
 
-Once code is downloaded  :
+Requirement: Java 8
 
+Once code is downloaded  :
+  
   1.  mvn clean install
   2.  mvn jetty:run
   
