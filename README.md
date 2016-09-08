@@ -16,7 +16,7 @@ Once code is downloaded  :
   <br>
   <textarea>
     <pluginGroups>
-      <pluginGroup>org.eclipse.jetty</pluginGroup>
-    </pluginGroups>
-  </<textarea>>
+       <pluginGroup>org.eclipse.jetty</pluginGroup>
+     </pluginGroups>
+  </textarea>
 
