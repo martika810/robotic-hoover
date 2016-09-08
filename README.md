@@ -11,6 +11,7 @@ Once code is downloaded  :
 
   Note: One possible problem you may encounter is that maven is not able to resolve the jetty plugin, in that case add the following in settings.xml
   <br>
+  <br>
   <textarea>
     <pluginGroups>
       <pluginGroup>org.eclipse.jetty</pluginGroup>
