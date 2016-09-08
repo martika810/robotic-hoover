@@ -1,6 +1,6 @@
 # yoti-test - Marta Rey
 
-How to run the code
+<h1>How to run the code</h1>
 
 Once code is downloaded  :
 
